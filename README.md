@@ -27,6 +27,9 @@ This is a backend application for a voting system where users can vote for candi
 
 # API Endpoints
 
+# How To Use (example)  
+-`POST /https://voting-app-e26z.onrender.com/user/signup
+
 ## Authentication
 
 ### Sign Up
