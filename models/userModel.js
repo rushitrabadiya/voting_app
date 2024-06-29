@@ -14,10 +14,11 @@ const userSchema = new mongooes.Schema({
   },
   email: {
     type: String,
-    // required: true
+    required: true
   },
   mobile: {
     type: String,
+    required: true
   },
   address: {
     type: String,
